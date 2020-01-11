@@ -1,4 +1,4 @@
 # Animations
 Animações para Web e Mobile
 
-[ ] 1) Using svg maipulation
+- [x] Using svg maipulation
